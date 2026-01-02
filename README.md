@@ -27,6 +27,7 @@ Use conditional logic
 Control loop flow with a counter and break
 
 (practice 3)
+
 Object Destructuring
 A simple JavaScript example showing how to extract properties from an object and reassign variables.
 Key points:
