@@ -25,3 +25,12 @@ Purpose
 Practice for...of loop
 Use conditional logic
 Control loop flow with a counter and break
+
+(practice 3)
+Object Destructuring
+A simple JavaScript example showing how to extract properties from an object and reassign variables.
+Key points:
+Extract lastname and age from an object using destructuring
+Reassign lastname without affecting age
+Print values using console.log
+Purpose: Practice object destructuring and variable assignment in JavaScript.
